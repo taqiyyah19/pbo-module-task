@@ -31,8 +31,9 @@ public class Vivobook : LAPTOP
 public class IdeaPad : LAPTOP
 {
     public string Vga { get; set; }
-    public string Processor { get; set; }
+    public string Processor;
 }
+
 
 public class Predator : IdeaPad
 {
