@@ -1,0 +1,14 @@
+D:\HIMACIP\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\obj\Debug\net6.0\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum.GeneratedMSBuildEditorConfig.editorconfig
+D:\HIMACIP\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\obj\Debug\net6.0\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum.AssemblyInfoInputs.cache
+D:\HIMACIP\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\obj\Debug\net6.0\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum.AssemblyInfo.cs
+D:\HIMACIP\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\obj\Debug\net6.0\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum.csproj.CoreCompileInputs.cache
+D:\HIMACIP\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\bin\Debug\net6.0\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum.exe
+D:\HIMACIP\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\bin\Debug\net6.0\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum.deps.json
+D:\HIMACIP\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\bin\Debug\net6.0\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum.runtimeconfig.json
+D:\HIMACIP\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\bin\Debug\net6.0\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum.dll
+D:\HIMACIP\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\bin\Debug\net6.0\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum.pdb
+D:\HIMACIP\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\obj\Debug\net6.0\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum.dll
+D:\HIMACIP\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\obj\Debug\net6.0\refint\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum.dll
+D:\HIMACIP\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\obj\Debug\net6.0\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum.pdb
+D:\HIMACIP\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\obj\Debug\net6.0\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum.genruntimeconfig.cache
+D:\HIMACIP\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum\obj\Debug\net6.0\ref\1022_Taqiyyah Ardelia Pratiwi_TugasPraktikum.dll
